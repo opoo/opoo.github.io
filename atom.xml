@@ -4,7 +4,7 @@
   <title><![CDATA[OpooPress @ GitHub]]></title>
   <link href="http://opoo.github.io/atom.xml" rel="self"/>
   <link href="http://opoo.github.io/"/>
-  <updated>2013-07-23T18:03:26+0800</updated>
+  <updated>2013-07-24T18:38:50+0800</updated>
   <id>http://opoo.github.io/</id>
   <author>
     <name><![CDATA[Alex Lin]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://press.opoo.org/">OpooPress</generator>
 
+  <entry>
+    <title type="html"><![CDATA[成功地将 OpooPress 发布到 GitHub Pages]]></title>
+    <link href="http://opoo.github.io/article/2013/07/deploy-to-github/"/>
+    <updated>2013-07-24T18:29:00+0800</updated>
+    <id>http://opoo.github.io/article/2013/07/deploy-to-github/</id>
+    <content type="html"><![CDATA[<p>OpooPress 可以发布到 GitHub Pages 了。</p>
+<p>当前网站就是一个实例，用于演示将 OpooPress 发布到 GitHub Pages。</p>
+<p>更多信息请访问 OpooPress 网站:  <a href="http://www.opoopress.com/">http://www.opoopress.com/</a>。</p>
+<p>This site is hosted on GitHub Pages.</p>
+]]></content>
+  </entry>
   <entry>
     <title type="html"><![CDATA[世界，你好！]]></title>
     <link href="http://opoo.github.io/article/2013/07/hello-world/"/>

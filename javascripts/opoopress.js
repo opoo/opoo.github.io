@@ -3,17 +3,17 @@
  * Licensed under the Apache License, Version 2.0
  */
 function getSiteRoot(){
-	if(!window.__OpooPressSiteRoot){
-		window.__OpooPressSiteRoot = "";
+	if(!window.__opoopressSiteRoot__){
+		window.__opoopressSiteRoot__ = "";
 		var meta =$("meta[name='OpooPressSiteRoot']");
 		if(meta){
 			var content = meta.attr('content');
 			if(content){
-				window.__OpooPressSiteRoot = content.toString();
+				window.__opoopressSiteRoot__ = content;
 			}
 		}
 	}
-	return window.__OpooPressSiteRoot;
+	return window.__opoopressSiteRoot__;
 }
 
 /**
