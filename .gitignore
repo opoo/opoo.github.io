@@ -16,6 +16,7 @@ local.properties
 .settings/
 .loadpath
 target/
+screen.css
 
 # External tool builders
 .externalToolBuilders/

@@ -14,4 +14,4 @@ OpooPress 可以发布到 [GitHub Pages](http://pages.github.com/) 了。
 
 更多信息请访问 OpooPress 网站:  [http://www.opoopress.com/](http://www.opoopress.com/)。
 
-This site is hosted on GitHub Pages.
+This site is hosted on GitHub Pages. The GitHub Pages repository of this site is <https://github.com/opoo/opoo.github.io>. The source branch of the repository is <https://github.com/opoo/opoo.github.io/tree/src>.
