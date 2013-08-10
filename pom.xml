@@ -113,7 +113,6 @@
 	</profiles>
 
 	<!-- for snapshots -->
-	<!--
 	<repositories>
 		<repository>
 			<id>sonatype-nexus-snapshots</id>
@@ -141,7 +140,6 @@
 			</snapshots>
 		</pluginRepository>
   	</pluginRepositories>
-	-->
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
