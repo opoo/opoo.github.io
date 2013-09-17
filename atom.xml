@@ -4,7 +4,7 @@
   <title><![CDATA[OpooPress @ GitHub]]></title>
   <link href="http://opoo.github.io/atom.xml" rel="self"/>
   <link href="http://opoo.github.io/"/>
-  <updated>2013-09-16T19:14:36+0800</updated>
+  <updated>2013-09-17T09:25:43+0800</updated>
   <id>http://opoo.github.io/</id>
   <author>
     <name><![CDATA[Alex Lin]]></name>
@@ -21,6 +21,8 @@
 <p>当前网站就是一个实例，用于演示<a href="http://www.opoopress.com/zh/docs/github-pages/">将 OpooPress 发布到 GitHub Pages</a>。</p>
 <p>更多信息请访问 OpooPress 网站:  <a href="http://www.opoopress.com/">http://www.opoopress.com/</a>。</p>
 <p>This site is hosted on GitHub Pages. The GitHub Pages repository of this site is <a href="https://github.com/opoo/opoo.github.io">https://github.com/opoo/opoo.github.io</a>. The source branch of the repository is <a href="https://github.com/opoo/opoo.github.io/tree/src">https://github.com/opoo/opoo.github.io/tree/src</a>.</p>
+<p>github://github.com/opoo/opoo.github.io</p>
+<p>scm:git:https://github.com/opoo/opoo.github.io.git</p>
 ]]></content>
   </entry>
   <entry>
