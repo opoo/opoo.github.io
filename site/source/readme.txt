@@ -2,5 +2,4 @@
 layout: nil
 ---
 
-This is a `readme` file for ${site.url}
-
+This is a `readme` file for ${site.url}!
